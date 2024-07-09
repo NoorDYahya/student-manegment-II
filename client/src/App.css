@@ -1,0 +1,16 @@
+.half-page {
+  height: 100vh;
+}
+
+.img-fluid {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.form-side {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+}
